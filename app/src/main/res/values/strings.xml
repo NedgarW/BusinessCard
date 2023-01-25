@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Ildar Nazmutdinov</string>
+    <string name="status">Android Developer Extraordinaire</string>
+    <string name="mobileNumber">+123456789</string>
+    <string name="email">google@gmail.com</string>
+    <string name="socialNetwork">\@AndroidDev</string>
+</resources>
